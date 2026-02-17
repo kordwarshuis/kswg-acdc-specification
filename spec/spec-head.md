@@ -17,6 +17,10 @@ Authentic Chained Data Containers (ACDC)
 - [Kevin Griffin](https://github.com/m00sey), [GLEIF](https://gleif.org/)
 
 **Contributors:**
+- [Samuel Smith](https://github.com/SmithSamuelM), [Prosapien](https://prosapien.com/)
+- [Philip Feairheller](https://github.com/pfeairheller), [GLEIF](https://gleif.org/)
+- [Kevin Griffin](https://github.com/m00sey), [GLEIF](https://gleif.org/)
+- [Nuttawut Kongsuwan](https://github.com/nkongsuwan)
 - [Henk van Cann](https://github.com/henkvancann), [Blockchainbird](https://blockchainbird.org/)
 - [Kor Dwarshuis](https://github.com/kordwarshuis), [Blockchainbird](https://blockchainbird.org/)
   
