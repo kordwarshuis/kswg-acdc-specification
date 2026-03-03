@@ -5,7 +5,7 @@ Authentic Chained Data Containers (ACDC)
 
 **DOI**
 
-[https://doi.org/10.5281/zenodo.18797357](https://doi.org/10.5281/zenodo.18797357)
+[https://doi.org/10.5281/zenodo.18792085](https://doi.org/10.5281/zenodo.18792085)
 
 **Latest Draft:**
 
